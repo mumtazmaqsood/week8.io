@@ -1,0 +1,127 @@
+
+
+body {
+
+    padding: 0%;
+
+}
+
+h1 {
+
+    text-align: center;
+
+    margin-bottom: 70Px;
+
+    color: rgb(78, 78, 78);
+
+
+
+}
+
+ul {
+
+    width: 100%;
+    
+    background: #fff;
+
+}
+
+
+li {
+
+    width: 20%;
+
+    margin: 5px;
+    
+
+    background: rgb(236, 239, 247);
+
+    box-shadow: 0px 5px 4px -5px rgba(53, 53, 53, 0.3);
+
+    list-style: none;
+
+    padding: 10px;
+
+    color: rgb(66, 66, 66);
+
+    font-size: 1.1em;
+
+    position: relative;
+
+    display: inline-block;
+
+    float: left;
+
+ 
+
+    transition: all .5s;
+
+    
+
+}
+
+li:hover{
+
+    /* margin-top: 15px; */
+
+    box-shadow: 0px 7px 4px -5px rgba(53, 53, 53, 0.4);
+
+    
+
+}
+
+
+li p {
+
+    color: rgb(143, 143, 143);
+
+    font-size: .8em;
+
+    
+
+}
+
+
+
+li img {
+
+    height: 60%;
+
+    position: absolute;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    right: 40px;
+
+    background: #fff;
+
+    margin-left: 10px;
+
+}
+
+#search{
+    
+    float: right;
+    width: 55%
+    
+    
+}
+
+#menu{
+    
+float: left;
+margin-top: 10px;    
+    
+}
+
+div.goodrating{
+
+    position: relative;
+    
+    top:100px;
+    
+    
+}
+
